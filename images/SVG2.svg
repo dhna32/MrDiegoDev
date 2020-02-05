@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Web_1920_1);
+      }
+
+      .cls-2, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke: #000;
+        stroke-width: 25px;
+      }
+
+      .cls-3 {
+        font-size: 80px;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        letter-spacing: 0.05em;
+      }
+
+      .cls-4 {
+        font-size: 200px;
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-5 {
+        font-size: 65px;
+      }
+
+      .cls-6 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" class="cls-1">
+    <rect class="cls-8" width="1920" height="1080"/>
+    <g id="Rectángulo_1" data-name="Rectángulo 1" class="cls-2" transform="translate(510 185)">
+      <rect class="cls-6" width="900" height="611"/>
+      <rect class="cls-7" x="12.5" y="12.5" width="875" height="586"/>
+    </g>
+    <text id="DIEGO_HERNÁNDEZ" data-name="DIEGO HERNÁNDEZ" class="cls-3" transform="translate(556 336)"><tspan x="0" y="0">DIEGO HERNÁNDEZ</tspan></text>
+    <text id="_" data-name="/" class="cls-4" transform="translate(923 572)"><tspan x="0" y="0">/</tspan></text>
+    <text id="FRONT-END_DEVELOPER" data-name="FRONT-END DEVELOPER" class="cls-5" transform="translate(555 712)"><tspan x="0" y="0">FRONT-END DEVELOPER</tspan></text>
+  </g>
+</svg>
