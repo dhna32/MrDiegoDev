@@ -1,95 +1,5 @@
-/* WEB FONTS*/
-@font-face {
-  font-family: 'SourceCodePro'
-  src: url(Fonts\SourceCodePro-Light.otf);
-}
 
-*{
-  margin: 0px;
-  padding: 0px;
-  box-sizing: border-box;
-}
-
-body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
-  font-size: 1em;
-  width: 70%;
-  margin: 0 auto;
-  background-image: url(../images/img1.jpg);
-  background-size: cover;
-}
-
-header{
-  margin-top: 1%;
-}
-
-li, a{
-  text-decoration: none;
-  color: #fffef5
-}
-
-.logo,
-nav,
-ul,
-li{
-  display: inline-block;
-  color: #fffef5;
-  letter-spacing: 5px;
-}
-
-.logo{
-  font-size: 1.5em;
-}
-
-nav{
-  float: right;
-}
-
-li{
-  font-size: .9em;
-  font-weight: lighter;
-  padding-left: 25px;
-  text-transform: uppercase;
-}
-
-main{
-  height: 70%;
-}
-
-.container{
-  margin: 25% 25% 25% 22%;
-  padding-top: 2%;
-  float: left;
-}
-
-footer{
-  color: #fffef5;
-  float: right;
-  font-weight: lighter;
-  letter-spacing: 4px;
-}
-
-.container h1{
-  font-size:  8em;
-  color: #fffef5;
-  letter-spacing: 10px;
-  text-transform: lowercase;
-  font-weight: bold;
-  opacity: .35;
-  text-align: center;
-}
-
-.container h2{
-  font-size:  1.5em;
-  color: #fffef5;
-  letter-spacing: 10px;
-  text-transform: uppercase;
-  font-weight: lighter;
-  opacity: .35;
-  text-align: center;
-}
-
+/*
 .hover-links::after{
   content: '';
   display: block;
@@ -103,6 +13,6 @@ footer{
   width: 100%;
   transition: width .3s;
 }
-
+*/
 /*****************************************/
 /*-----------MEDIA QUERIES--------------*/
